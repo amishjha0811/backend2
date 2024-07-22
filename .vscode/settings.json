@@ -1,0 +1,6 @@
+{
+    "prettier.requirePragma": false,
+    "prettier.resolveGlobalModules": false,
+    "prettier.useTabs": false,
+    "prettier.withNodeModules": false
+}
