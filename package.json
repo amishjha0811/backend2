@@ -15,9 +15,12 @@
   "author": "Amish kumar",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongoose": "^8.5.1",
+    "pretier": "^0.0.1",
     "touch": "^3.1.1"
   },
   "devDependencies": {
